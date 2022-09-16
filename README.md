@@ -6,12 +6,14 @@
 
 ### Currently with skills in Almost 8-10 languages but most i prefer Python
    ###   > Python 85%
+   ###   > Js 85%
    ###   > Go 67%
    ###   > C# 50% but still going
    ###   > C++ 75%
    ###   > Java 75%
    ###   > Ruby 60%
    ###   > Dart 80%
+   ###   > Ballerina 80%
    
 ###  I enjoy using Node.js, Django in Web development
 ### mobile apps development with flutter 
