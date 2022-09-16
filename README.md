@@ -5,7 +5,7 @@
 ### I am currently working at [eagletech.uk](http://eagletech.uk/) as a Web Developer.
 
 ### Currently with skills in Almost 8-10 languages but i prefer Python more 
-   ###   > Python 85%
+   ###   > Python 87%
    ###   > Js 85%
    ###   > Go 67%
    ###   > C# 50% but still going
