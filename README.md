@@ -11,6 +11,8 @@
    ###   > C++ 75%
    ###   > Java 75%
    ###   > Ruby 60%
+   ###   > Dart 80%
    
-###  I enjoy using Node.js, Django in Web development 
+###  I enjoy using Node.js, Django in Web development
+### mobile apps development with flutter 
 -Fun fact: I am a meme Lord at the end of the day😂😂😂
