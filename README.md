@@ -1,4 +1,4 @@
-> ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=MC-Knight&theme=tokyonight)
+> ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=MC-Knight&theme=tokyonight)<br>
 > ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Knight&show_icons=true&theme=tokyonight)
 
 ## Languages and tools
