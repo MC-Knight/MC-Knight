@@ -1,5 +1,5 @@
 > ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=MC-Knight&theme=tokyonight)
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Knight&show_icons=true&theme=tokyonight)
+> <a href="https://github.com/MC-Knight/github-readme-stats"><img alt="MC-Knight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Knight&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## Languages and tools
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<a href="https://github.com/MC-Knight/github-readme-stats"><img alt="MC-Knight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Knight&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 
 <div align="center">
 	<br>
