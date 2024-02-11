@@ -4,7 +4,7 @@
     </a>
 </p>
 <a href="https://github.com/MC-Knight/github-readme-stats"><img alt="MC-Knight's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MC-Knight&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MC-Knight/github-readme-stats"><img alt="MC-Knight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Knight&langs_count=8&count_private=true&hide_total_contributions=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MC-Knight"><img alt="MC-Knight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Knight&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## Languages and tools
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
