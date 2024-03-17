@@ -36,4 +36,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MC-Knight&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MC-Knight&label=Profile%20Views&color=5&icon=2&pretty=false)](https://visitcount.itsvg.in)
